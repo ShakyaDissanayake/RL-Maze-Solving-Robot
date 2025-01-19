@@ -1,2 +1,2 @@
 # RL-Maze-Solving-Robot
-A Maze solving and obstacle avoidance robot using Reinforcement Learning
+A Maze solving and obstacle avoidance robot using Reinforcement Learning(On going develaopment)
