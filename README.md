@@ -12,7 +12,7 @@ This project implements a Reinforcement Learning (RL) based solution for autonom
 - GPU acceleration support
 
 ## 🛠️ Technical Stack
-- Python 3.x
+- Python 3.12
 - PyTorch
 - NumPy
 - Matplotlib
