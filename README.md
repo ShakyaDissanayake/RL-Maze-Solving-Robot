@@ -98,7 +98,8 @@ The project provides two types of visualizations:
 - [ ] Integrate with physical robot hardware
 - [ ] Add different types of obstacles and rewards
 - [ ] Implement more advanced RL algorithms (A3C, PPO)
-- [ ] Add real-time visualization of the training process
+- [ ] Add real-time visualization of the navigating process
+- [ ] Add camera input to the robot and navigate throuh the obstacles for the target
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
