@@ -33,9 +33,10 @@ RL-Maze-Solving-Bot/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.12
 - CUDA-capable GPU (optional but recommended)
 - PyTorch with CUDA support (for GPU acceleration)
+- Nvidia Jetson SBCs
 
 ### Installation
 1. Clone the repository:
